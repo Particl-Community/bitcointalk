@@ -73,6 +73,7 @@ Next features for version 2.4.0 "Infinite Markets" [i](March/April)[/i]:
 
    ➣  Market Management [Enabling infinite number of public or private market, accessible with a key] - [url=https://particl.news/market-management-is-next-3e35356d5de0?source=---------10-----------------------]explained[/url]
    ➣  Identity Management [Give the ability to change your identity on the marketplace(s), as you wish]
+   ➣  Significant performance boost [Like faster download of listings]
    ➣  Lowering Listing Fees
 
 Full roadmap ❯ https://particl.io/roadmap/
