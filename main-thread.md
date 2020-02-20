@@ -46,26 +46,32 @@
 [color=#4bc88f][size=13pt]✧ PART specifications ✧[/size][/color]
 
    ➣  Block time  ❯  2 min
-   ➣  Actual Supply  ❯   9500000 PART
+   ➣  Actual Supply  ❯   ~9,550,000 PART
    ➣  PoS rate  ❯  3% [i](2% next summer)[/i]
    ➣  Security  ❯  Ledger App with Particl Qt
 
 
 [color=#4bc88f][size=13pt]▨ Particl Marketplace(s) ▨[/size][/color]
 
-   ➣  [u]Decentralized marketplace[/u](s) based on SMSG  [i](decentralized hosting of data)[/i]
-   ➣  [u]Anyone can create a marketplace[/u] or a storefront, [u]private or public[/u], as he wishes
+   ➣  [u]Decentralized[/u] marketplace(s) based on SMSG  [i](decentralized hosting of data)[/i]
+   ➣  Anyone can [u]create a marketplace[/u] or a storefront, [u]private or public[/u], as he wishes
    ➣  [u]Anonymous automatic escrow[/u] - no third party - [url=https://particl.news/particl-explained-double-deposit-mad-escrow-b3699dd29768]explained[/url]
+   ➣  Every order is fully anonymous, only seller and buyer knows about the exchange!
+   ➣  Only small [u]anti-spam fees[/u] for adding: listings to marketplace and marketplaces to public list
    ➣  Marketplace client [u]can be used over Tor[/u]
+   ➣  Clean and beautiful UI to make it easy for non-technical people
+   ➣  Swapping bot to [u]exchange BTC to PART[/u] in Desktop
+   ➣  And many other features to look forward in app  ;)
 
 Know more ❯ https://particl.io/marketplace/
-Download ❯ https://particl.io/downloads/
+Download desktop with Marketplace ❯ https://particl.io/downloads/
+[color=#4bc88f]Activate Marketplace[/color] ❯ https://particl.wiki/tutorial/market/start
 
 [color=#4bc88f][size=13pt]✯ Development roadmap ✯[/size][/color]
 
 Next features for version 2.4.0 "Infinite Markets" [i](March/April)[/i]:
 
-   ➣  Market Management [Enabling infinite number of public or private market, accessible with a key] - explained
+   ➣  Market Management [Enabling infinite number of public or private market, accessible with a key] - [url=https://particl.news/market-management-is-next-3e35356d5de0?source=---------10-----------------------]explained[/url]
    ➣  Identity Management [Give the ability to change your identity on the marketplace(s), as you wish]
    ➣  Lowering Listing Fees
 
@@ -89,6 +95,12 @@ https://particl.wiki/learn/staking/pools#available-staking-pools
 
 [size=11pt]Whitepapers[/size]
 https://particl.io/whitepapers/
+
+
+
+[color=#4bc88f][size=13pt]Contribute to the Particl [ANN][/size][/color]
+
+Want to add something to this topic? Participate on github: https://github.com/Particl-Community/bitcointalk  ;)
 
 
 ______________________________________________
